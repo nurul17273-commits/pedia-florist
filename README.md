@@ -22,7 +22,6 @@ Aplikasi web berbasis Laravel untuk membantu pengguna mempelajari dan merawat ta
 - **Backend:** PHP 8.3+, Laravel 13.
 - **Frontend/build:** Vite, Tailwind CSS 4, JavaScript.
 - **Database:** mengikuti konfigurasi Laravel pada `.env` (contoh `.env.example` menggunakan SQLite).
-- **Paket PDF:** `barryvdh/laravel-dompdf`.
 - **Login sosial:** Laravel Socialite.
 
 ## Persyaratan
@@ -51,11 +50,9 @@ Jalankan perintah dari direktori root proyek (direktori yang berisi `artisan`, `
 ### 1. Ambil source code
 
 ```bash
-git clone https://github.com/nurulasma1727-hash/NAMA-REPOSITORY.git
-cd NAMA-REPOSITORY
-```
+git clone https://github.com/nurul17273-commits/pedia-florist.git
 
-Ganti `NAMA-REPOSITORY` dengan nama repository yang benar. Jika mengunduh ZIP, ekstrak lalu buka terminal pada folder proyek tersebut.
+```
 
 ### 2. Pasang dependency PHP dan JavaScript
 
